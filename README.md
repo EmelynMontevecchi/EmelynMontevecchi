@@ -16,6 +16,8 @@
   <img align="center" alt="Emy-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">   
   <img align="center" alt="Emy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Emy-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Emy-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/nodejs-plain.svg">    
+  <img align="center" alt="Emy-node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/react-original.svg">
   
 </div>
   
