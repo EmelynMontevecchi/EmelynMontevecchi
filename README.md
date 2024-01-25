@@ -2,7 +2,7 @@
 
 - 🌱 Cursando Engenharia da Computação na UFMT
 - 💬 E-mail: Emelynfagundes06@hotmail.com
-- 😄 Pronouns: ## Ela/Dela
+- 😄 Pronouns: Ela/Dela
   
 
 <div align="center">
